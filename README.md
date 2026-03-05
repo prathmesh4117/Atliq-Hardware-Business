@@ -2,9 +2,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Project Overview
 
-This project focuses on analyzing retail sales data to uncover business insights and performance trends. The objective of the dashboard is to transform raw sales data into actionable insights that help businesses understand revenue patterns, top-performing products, customer behavior, and regional sales performance.
+This project analyzes retail sales data to uncover key business insights, sales trends, and customer behavior. The goal is to transform raw sales data into meaningful insights that support data-driven decision-making.
 
-Using data cleaning, exploratory data analysis (EDA), SQL queries, and visual analytics, the dashboard provides a clear overview of key performance metrics and enables data-driven decision-making.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🎯 Business Problem
 
@@ -44,6 +43,6 @@ Identify high-performing products and customers
 Understand regional sales trends
 Support data-driven business decisions.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Screenshot of the Dashboard:
+### Screenshot of the Dashboard:
 So the dashboard looks like:
 ![Dashboard Preview](https://github.com/prathmesh4117/Atliq-Hardware-Business/blob/main/Snapshot%20of%20the%20Dashboard.png)
