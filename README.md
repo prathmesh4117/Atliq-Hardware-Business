@@ -46,4 +46,4 @@ Support data-driven business decisions.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Screenshot of the Dashboard:
 So the dashboard looks like:
-https://github.com/prathmesh4117/Atliq-Hardware-Business/blob/main/Snapshot%20of%20the%20Dashboard.png
+![Dashboard Preview](https://github.com/prathmesh4117/Atliq-Hardware-Business/blob/main/Snapshot%20of%20the%20Dashboard.png)
